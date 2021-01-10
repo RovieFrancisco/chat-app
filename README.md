@@ -1,4 +1,4 @@
-# chat-app
+# Chat-App
 This is just a simple implementation of how chat app works with chat bubbles.
 
 # Simple Layout
