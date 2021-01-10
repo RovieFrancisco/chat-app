@@ -1,6 +1,9 @@
 # Chat-App
 This is just a simple implementation of how chat app works with chat bubbles.
 
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rovie.programmer15) 
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/RovieFrancisco15)
+
 # Simple Layout
 Only TextField and Buttons are available here.
 
